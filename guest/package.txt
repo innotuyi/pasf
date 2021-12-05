@@ -1,0 +1,1 @@
+npm install axios @react-native-community/async-storage redux redux-thunk react-redux uuid native-base react-native-vector-icons  react-native-router-flux react-native-elements
